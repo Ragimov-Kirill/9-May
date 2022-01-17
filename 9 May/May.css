@@ -1,0 +1,20 @@
+body{
+  background-image: url('9may.png');
+        background-size: cover;
+
+}
+h1{
+  color: red;
+  text-align: center;
+}
+img{
+  border-style: solid;
+  border-width: 5px;
+  border-color: white;
+height: 400px;
+  width: 400px;
+}
+
+p{
+text-align: center;
+}
